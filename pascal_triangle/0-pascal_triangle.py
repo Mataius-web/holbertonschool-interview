@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """script for pascal triangle"""
 
+
 def pascal_triangle(n):
     """set the pascal triangle"""
     pascal = []
