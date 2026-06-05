@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Log parsing script that reads stdin and computes metrics."""
+"""Log parsing script for reads stdin and computes metrics."""
 import sys
 import re
 
